@@ -1,0 +1,8 @@
+{
+  "videolyzer":{
+    "profile": "",
+    "region": "",
+    "video_bucket": "",
+    "video_table": ""
+  }
+}

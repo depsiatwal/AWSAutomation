@@ -1,0 +1,8 @@
+{
+  "videolyzer":{
+    "profile": "awsautomation",
+    "region": "eu-west-1",
+    "videos_bucket": "depsivideolyzer1234",
+    "videos_table": "videolyzer-videos-dev"
+  }
+}
